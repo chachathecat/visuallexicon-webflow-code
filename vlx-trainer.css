@@ -1,8 +1,3 @@
-<!-- Visual Lexicon Trainer MVP v1
-Paste into /visual-trainer page > Page Settings > Custom Code > Before </body>
--->
-
-<style id="vlx-trainer-style">
   :root {
     --vlx-bg: #fff8f3;
     --vlx-bg-soft: #fff1e8;
@@ -980,4 +975,3 @@ Paste into /visual-trainer page > Page Settings > Custom Code > Before </body>
     width: 100%;
   }
 }
-</style>
